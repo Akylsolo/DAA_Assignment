@@ -42,4 +42,4 @@
 ![Ratio vs n](ratio_vs_n.png)
 
 ## 4. Discussion
-The empirical measurements align closely with the theoretical bounds. In the ratio plots, the values for MergeSort and QuickSelect stabilize into horizontal asymptotes. Minor runtime variations at smaller sizes are attributed to JVM JIT compilation warm-up and CPU cache effects. The 3-way partition successfully neutralized performance degradation on duplicate-heavy inputs for QuickSort.
+The empirical measurements align closel y with the theoretical bounds. In the ratio plots, the values for MergeSort and QuickSelect stabilize into horizontal asymptotes. Minor runtime variations at smaller sizes are attributed to JVM JIT compilation warm-up and CPU cache effects. The 3-way partition successfully neutralized performance degradation on duplicate-heavy inputs for QuickSort.
