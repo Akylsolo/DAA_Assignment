@@ -4,6 +4,7 @@
 - **Name:** Akyl Muratbek
 - **Group:** SE 2523
 - **Course:** Design and Analysis of Algorithms
+- [🔗 Посмотреть проект на GitHub](https://github.com/Akylsolo/DAA_Assignment.git)
 
 ## Project Overview
 This academic project focuses on the comprehensive implementation, automated benchmarking, unit testing, and asymptotic performance analysis of four fundamental algorithms in computer science:
